@@ -10,3 +10,9 @@
 <img src="https://github.com/odiloalmeida/ps5-store/blob/master/img/readme-picture.png" width="960px"/>
 <br>
 <br>
+<h2 align="center">Abaixo segue vídeo demonstrativo da aplicação em uso.</h2>
+
+https://user-images.githubusercontent.com/111534893/198162482-9dc3f1e6-1886-4611-9bbd-0a9e2c6ed822.mp4
+
+
+
